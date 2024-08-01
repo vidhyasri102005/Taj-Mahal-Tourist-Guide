@@ -1,0 +1,24 @@
+h4{
+    color: red;
+}
+.section-2{
+    color: white;
+    background-color: black;
+}
+.subsec-15{
+    font-weight: 100;
+}
+.subsec-15 h1{
+    text-align: center;
+}
+.subsec-1,.subsec-2,.subsec-3,.subsec-4,.subsec-5,.subsec-6,.subsec-7,.subsec-8,.subsec-9,.subsec-10,.subsec-11,.subsec-12,.subsec-13,.subsec-14,.subsec-15
+{display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
